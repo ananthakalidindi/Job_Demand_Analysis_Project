@@ -1,0 +1,41 @@
+Category,Item,Job_Count
+Job Title,Python Developer,71
+Job Title,Product Manager,70
+Job Title,UI/UX Designer,69
+Job Title,Business Analyst,65
+Job Title,Java Developer,64
+Job Title,DevOps Engineer,63
+Job Title,AI Engineer,61
+Job Title,Network Engineer,60
+Job Title,QA Engineer,59
+Job Title,Cybersecurity Analyst,59
+Job Title,Database Administrator,59
+Job Title,Software Developer,58
+Job Title,Data Scientist,56
+Job Title,Project Manager,56
+Job Title,Mobile App Developer,56
+Job Title,Machine Learning Engineer,54
+Job Title,Web Developer,54
+Job Title,BI Developer,54
+Job Title,Data Analyst,51
+Job Title,Cloud Engineer,45
+Location,Delhi NCR,128
+Location,Visakhapatnam,128
+Location,Hyderabad,128
+Location,Noida,125
+Location,Bengaluru,120
+Location,Gurugram,115
+Location,Mumbai,112
+Location,Chennai,111
+Location,Pune,109
+Location,Kochi,108
+Industry,FinTech,129
+Industry,IT Services,127
+Industry,Healthcare,126
+Industry,Banking,126
+Industry,Telecom,117
+Industry,SaaS,116
+Industry,EdTech,115
+Industry,Manufacturing,112
+Industry,Consulting,109
+Industry,E-commerce,107

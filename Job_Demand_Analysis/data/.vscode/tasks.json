@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run all 8 stages",
+      "type": "shell",
+      "command": "python run_all.py",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
